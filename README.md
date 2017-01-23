@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HowardViewTool::Renderer.copyright 'Jordan Howard', "All rights reserved
+```
 
 ## Development
 
